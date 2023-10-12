@@ -1,0 +1,51 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+
+header img {
+    width: 300px;
+    
+}
+
+
+p {
+    font-family: 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+    color: #518dcf;
+    font-size: 13px;
+   
+}
+
+.subtitu{
+    margin-top: 20px;
+    color: #BA4F95;
+    letter-spacing: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    font-size: 1.2rem;
+}
+
+.titulo{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    color: rgb(138, 20, 140);
+    letter-spacing: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    font-size: 1.7rem;
+    text-align: center;
+
+}
+.derecha{
+    float: right;
+    width: 350px;
+}
+
+.izquierda{
+    float: left;
+    width: 350px;
+    margin-right: 10px;
+    
+}
+
+.ancho{
+    width: 100%;
+}
